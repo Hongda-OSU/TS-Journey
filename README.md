@@ -1,2 +1,2 @@
 # TS-Journey
-Learn TS for good
+Coding + Reading
